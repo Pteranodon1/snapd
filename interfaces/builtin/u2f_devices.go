@@ -233,6 +233,11 @@ var u2fDevices = []u2fDevice{
 		VendorIDPattern:  "08e6",
 		ProductIDPattern: "34d2",
 	},
+	{
+    	Name:           "Thales SafeNet eToken Fusion",
+    	VendorIDPattern:  "08e6",
+    	ProductIDPattern: "34d2",
+	},
 }
 
 const u2fDevicesConnectedPlugAppArmor = `
